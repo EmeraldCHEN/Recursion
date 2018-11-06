@@ -7,7 +7,6 @@ namespace Recursion
     {
         // Recursion occurs when a method is called within itself
 
-
         static void Main(string[] args)
         {
             int answer4Factorial = 0;
